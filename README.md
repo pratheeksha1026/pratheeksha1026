@@ -26,23 +26,38 @@
 
 ---
 
-##  Skills & Technologies
+ Tech Stack
+ Programming
 
-###  Programming
 
-**Python · Java · C**
 
-###  AI / Machine Learning
 
-**Machine Learning · Scikit-learn · NLP**
 
-###  Data & Visualization
 
-**Pandas · NumPy · Matplotlib · Seaborn**
+ AI / Machine Learning
 
-###  Tools & Technologies
 
-**VS Code · Git · GitHub · MySQL · Flask**
+
+
+
+
+ Data & Visualization
+
+
+
+
+
+
+
+ Tools & Technologies
+
+
+
+
+
+
+
+
 
 ---
 
