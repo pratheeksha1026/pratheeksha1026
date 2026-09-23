@@ -1,142 +1,98 @@
-# Hi 👋, I'm Pratheeksha P.
+<h1 align="center">Hi 👋, I'm Pratheeksha P.</h1>
 
-### 🎓 Information Science Engineering Student | 🤖 AI & ML Enthusiast | 🐍 Python Developer
+<h3 align="center">🎓 Information Science Engineering Student | 🤖 AI & ML Enthusiast | 🐍 Python Developer</h3>
 
-I'm a **Third-year Information Science Engineering student** passionate about **Artificial Intelligence, Machine Learning, Python development, and problem solving**.
-
-I enjoy building practical projects, learning new technologies, and turning ideas into useful solutions. I'm currently strengthening my **Data Structures & Algorithms, programming, and software development skills** while exploring opportunities to grow as an engineer.
-
----
-
-## 🚀 About Me
-
-* 🎓 Pursuing **Information Science Engineering**
-* 🤖 Interested in **Artificial Intelligence & Machine Learning**
-* 🐍 Currently working with **Python**
-* 💻 Practicing **Data Structures & Algorithms**
-* 📊 Interested in **Data Analysis & Predictive Modeling**
-* 🛠️ Enjoy building practical, problem-solving projects
-* 📚 Always learning and improving my technical skills
-* 🎯 Preparing for software engineering opportunities and placements
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pratheeksha1026-creator&label=Profile%20views&color=0e75b6&style=flat" alt="pratheeksha1026-creator" />
+</p>
 
 ---
 
-## 🧰 Tech Stack
+### 👩‍💻 About Me
+
+* 🎓 I'm an **Information Science Engineering student**
+* 🤖 I'm interested in **Artificial Intelligence & Machine Learning**
+* 🐍 I enjoy working with **Python**
+* 💻 Currently improving my **Data Structures & Algorithms** skills
+* 📊 Interested in **Data Analysis and Machine Learning**
+* 🛠️ I enjoy building **practical projects that solve real-world problems**
+* 🌱 Currently learning and improving my **programming and software development skills**
+* 🎯 Preparing myself for **software engineering opportunities**
+
+---
+
+### 🚀 Projects
+
+* 📊 **Superstore Sales Analysis & Forecasting**
+* 🎫 **IT Service Ticket Classification & Priority Prediction**
+* 📄 **AI Resume Screening System**
+* 🤝 **PeerSync AI — Student Connection Platform**
+
+---
+
+### 🧰 Tech Stack
 
 ### 💻 Programming
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat\&logo=openjdk\&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat\&logo=c\&logoColor=white)
 
 ### 🤖 AI / Machine Learning
 
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=for-the-badge)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge\&logo=pandas\&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge\&logo=numpy\&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge\&logo=scikit-learn\&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-102230?style=flat)
+![Scikit Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat\&logo=scikit-learn\&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-412991?style=flat)
 
 ### 📊 Data & Visualization
 
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
-![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat\&logo=pandas\&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat\&logo=numpy\&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=flat)
 
 ### 🛠️ Tools & Technologies
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge\&logo=github\&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge\&logo=visual-studio-code\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat\&logo=visual-studio-code\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat\&logo=flask\&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat\&logo=flutter\&logoColor=white)
 
 ---
 
-## 🌱 Currently Learning
+### 📜 Experience & Certifications
 
-* 🧩 Data Structures & Algorithms
-* 🐍 Advanced Python
-* 🤖 Machine Learning
-* 🧠 Artificial Intelligence
-* 💾 Database Management Systems
-* 💬 Technical communication and interview skills
+* 🤖 **Machine Learning Internship — Future Interns**
+* 📚 **Data Structures & Algorithms — Udemy**
+* ☁️ **Salesforce & Trailhead Learning**
 
 ---
 
-## 🔭 Featured Projects
+### 📊 GitHub Stats
 
-### 📊 Superstore Sales Analysis & Forecasting
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=pratheeksha1026-creator&show_icons=true&locale=en" alt="Pratheeksha's GitHub Stats" />
+</p>
 
-A data analysis and forecasting project that explores sales, profit, margins, product categories, and regional performance.
-
-**Technologies:** Python, Pandas, Matplotlib, Seaborn, Prophet
-
----
-
-### 🎫 IT Service Ticket Classification
-
-A machine learning project that classifies IT service tickets and predicts ticket priority.
-
-**Technologies:** Python, Pandas, Scikit-learn, NLP, Machine Learning
+<p>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratheeksha1026-creator" alt="Pratheeksha's GitHub Streak" />
+</p>
 
 ---
 
-### 📄 AI Resume Screening
-
-A resume screening system that compares resumes with job descriptions and identifies relevant skills using NLP techniques.
-
-**Technologies:** Python, NLP, TF-IDF, Cosine Similarity, spaCy, NLTK
-
----
-
-## 💼 Experience & Learning
-
-### 🤖 Future Interns — Machine Learning Internship
-
-Completed a Machine Learning internship involving practical projects in:
-
-* Data analysis
-* Machine learning
-* NLP
-* Predictive modeling
-* Practical problem solving
-
----
-
-## 🏆 Certifications & Learning
-
-* 🏅 Machine Learning Internship — Future Interns
-* 🏅 Data Structures & Algorithms — Udemy
-* 📚 Salesforce & Trailhead learning
-* 📚 Continuous learning through hands-on projects
-
----
-
-## 📈 My GitHub Journey
-
-I use GitHub to:
-
-* 🧑‍💻 Build and document projects
-* 📚 Practice programming
-* 🧠 Explore AI/ML concepts
-* 🧩 Improve problem-solving skills
-* 🔄 Track my learning journey
-
----
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with **students, developers, recruiters, mentors, and people working on interesting technology projects**.
+### 🤝 Connect With Me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/pratheeksha-p-411b80390/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
 <a href="https://github.com/pratheeksha1026-creator" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
 </p>
 
 ---
 
-### 💡 "Learn. Build. Improve. Repeat."
-
-⭐ Thanks for visiting my profile!
-
+### 🌱 Keep Learning. Keep Building. Keep Improving. 🚀
