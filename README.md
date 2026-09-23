@@ -78,7 +78,7 @@
 <a href="https://www.linkedin.com/in/pratheeksha-p-411b80390/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
 </a>
-<a href="https://github.com/pratheeksha1026-creator" target="_blank">
+<a href="https://github.com/pratheeksha1026" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white" />
 </a>
 </p>
