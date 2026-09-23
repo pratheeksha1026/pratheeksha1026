@@ -70,17 +70,7 @@
 
 ---
 
-### 📊 GitHub Stats
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=pratheeksha1026-creator&show_icons=true&locale=en" alt="Pratheeksha's GitHub Stats" />
-</p>
-
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pratheeksha1026-creator" alt="Pratheeksha's GitHub Streak" />
-</p>
-
----
 
 ### 🤝 Connect With Me
 
